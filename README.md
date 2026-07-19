@@ -25,8 +25,7 @@ Feel free to reach out and connect with me:
 
 [![Naukri](https://img.shields.io/badge/Naukri-0057B8?style=for-the-badge&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethakannan595@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethakannan595@gmail.com)
 ---
 
 # 💡 About Me
