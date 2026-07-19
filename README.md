@@ -1,16 +1,206 @@
-## Hi there 👋
+# Hi 👋, I'm Swetha Kannan
 
-<!--
-**swethakannan595-crypto/swethakannan595-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-Year B.Sc. Information Technology Student
+### Python, Django, Java, SQL & Web Designing | Database Management & SEO Practitioner.
 
-Here are some ideas to get you started:
+🚀 Always Learning New Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;Django+%26+FastAPI+Developer;Java+%26+SQL+Enthusiast;Web+Development+Learner;Database+Management+Practitioner;SEO+%26+Digital+Marketing+Experience;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
+
+---
+
+# 🌐 Connect & Collaborate
+
+I'm always open to connecting with developers, collaborating on innovative projects, sharing knowledge, and exploring opportunities in software development.
+
+Feel free to reach out and connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swethakannan-tech/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swethakannan595-crypto)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/swethakannan04/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/swethakannan595)
+
+[![Naukri](https://img.shields.io/badge/Naukri-0057B8?style=for-the-badge&logoColor=white)](https://www.naukri.com/mnjuser/profile)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethakannan595@gmail.com)
+
+---
+
+# 💡 About Me
+
+I am a final-year Information Technology student with a strong interest in backend development, artificial intelligence, and software engineering. I enjoy building practical applications that solve real-world problems using Python and modern web technologies.
+
+My experience includes developing full-stack web applications with Django, creating AI-powered solutions using FastAPI, and gaining industry exposure through internships in both Python development and SEO. I actively strengthen my technical skills by solving coding challenges, earning industry certifications, and working on personal projects.
+
+I am currently seeking entry-level Software Developer and Python Backend Developer opportunities where I can apply my knowledge, collaborate with experienced teams, and continue growing as a developer.
+
+---
+
+# 🛠 My Developer Toolkit
+
+- **Programming Languages:** Python, Java, C
+- **Backend Development:** Django, FastAPI
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Tools & Technologies:** Git, GitHub, Docker, VS Code
+- **Concepts:** REST APIs, CRUD Operations, Authentication, RAG, SQL, OOP
+- **Currently Learning:** Jenkins, CI/CD, DevOps
+
+---
+
+# 💼 Experience
+
+## 🐍 Python & Django Intern | Pinesphere Solutions
+
+**May 2026 – June 2026**
+
+- Developed a **Library Management System** using **Django, HTML, CSS, Bootstrap, and SQLite**.
+- Implemented **CRUD operations** for efficient book and member management.
+- Built **secure user authentication** and role-based access using Django's authentication system.
+- Worked with **Django ORM** for database design, queries, and data management.
+- Collaborated on developing and testing web application features while following best coding practices.
+
+
+## 📈 Digital Marketing & SEO Intern | ProPlus Logics
+
+**February 2025 – June 2025**
+
+- Performed **keyword research** to improve search engine visibility and organic traffic.
+- Executed **on-page SEO** techniques, including meta tags, content optimization, and internal linking.
+- Supported **off-page SEO** activities to enhance website authority and rankings.
+- Optimized website content for improved user engagement and search performance.
+- Utilized SEO and digital marketing tools to monitor website performance and generate insights.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Knowledge Hub
+
+**Tech Stack:** Python, FastAPI, PostgreSQL, ChromaDB, Sentence Transformers, Groq API
+
+An AI-powered knowledge management system that enables intelligent document search and question answering using Retrieval-Augmented Generation (RAG). Supports multiple file formats with semantic search for fast and accurate information retrieval.
+
+### Key Highlights
+
+- 🔹 Built a RAG-based document retrieval system
+- 🔹 Supports PDF, DOCX, TXT, CSV, XLSX, PPT, PNG, and JPG files
+- 🔹 Implemented semantic search using vector embeddings
+- 🔹 Integrated AI-powered chatbot for document-based Q&A
+- 🔹 Developed secure user authentication and document management
+
+🔗 **GitHub:**  (https://github.com/swethakannan595-crypto/AI-Knowledge-Hub)
+
+
+## 📚 Library Management System
+
+**Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite
+
+A full-stack web application designed to simplify library operations through role-based access, secure authentication, and efficient book management.
+
+### Key Highlights
+
+- 🔹 Implemented complete CRUD functionality
+- 🔹 Developed secure user authentication and authorization
+- 🔹 Managed books, members, issue/return operations
+- 🔹 Designed a responsive interface using Bootstrap
+- 🔹 Integrated SQLite database using Django ORM
+
+🔗 **GitHub:** (https://github.com/swethakannan595-crypto/Library-Management-System)
+
+
+## 📄 ChatGPT Research Report
+
+**Tech Stack:** Artificial Intelligence, Generative AI, Technical Research
+
+A comprehensive research report exploring ChatGPT's architecture, working principles, real-world applications, benefits, limitations, and future developments.
+
+### Key Highlights
+
+- 🔹 Studied Large Language Models (LLMs)
+- 🔹 Explained prompt engineering concepts
+- 🔹 Analyzed practical AI use cases across industries
+- 🔹 Documented future trends and ethical considerations
+
+🔗 **GitHub:** (https://github.com/swethakannan595-crypto/chatgpt-impact-research-report)
+
+---
+
+# 📚 Continuous Learning
+
+I believe in continuous learning and regularly enhance my technical skills through industry-recognized certifications and hands-on projects.
+
+### Highlights
+
+- 🏅 NPTEL DBMS (Elite)
+- 🏅 IBM Data Analysis with Python
+- 🏅 HackerRank SQL (Intermediate)
+- 🏅 HackerRank Node.js (Basic)
+- 🏅 Cisco Python Essentials
+- 🏅 NASSCOM Digital Engineering
+- 🏅 Tata GenAI Data Analytics Job Simulation
+- 🏅 Deloitte Data Analytics Job Simulation
+- 🏅 UiPath RPA Developer Foundation
+
+---
+
+# 💻 Competitive Programming
+
+I regularly solve coding challenges to strengthen my understanding of Data Structures, Algorithms, SQL, and Problem Solving while preparing for technical interviews.
+
+### Coding Profiles
+
+🟠 **LeetCode** – Strengthening algorithmic thinking through coding challenges.
+
+🟢 **HackerRank** – Practicing Python, SQL, and problem-solving exercises.
+
+💻 **GitHub** – Showcasing real-world projects, technical skills, and continuous learning.
+
+💼 **Naukri** – Keeping my professional profile updated with projects, certifications, and career achievements.
+
+---
+
+# 📊 GitHub Analytics
+
+Explore my coding activity, language usage, and overall GitHub performance through real-time development insights.
+
+<p align="center">
+  <!-- GitHub Stats -->
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+</p>
+
+
+
+# 🔥 Coding Consistency
+
+Consistency is the foundation of growth. This streak reflects my commitment to learning, building, and improving every day.
+
+<p align="center">
+  <!-- GitHub Streak -->
+</p>
+
+
+
+# 📈 Contribution Insights
+
+A timeline of my development journey, highlighting project contributions, continuous learning, and active participation.
+
+<p align="center">
+  <!-- Contribution Graph -->
+</p>
+
+
+
+# 🏆 Developer Milestones
+
+A collection of achievements that showcase my dedication to software development, open-source learning, and continuous improvement.
+
+<p align="center">
+  <!-- GitHub Trophy -->
+</p>
