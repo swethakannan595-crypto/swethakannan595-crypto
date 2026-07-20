@@ -85,11 +85,11 @@ An AI-powered knowledge management system that enables intelligent document sear
 
 ### Key Highlights
 
-- 🔹 Built a RAG-based document retrieval system
-- 🔹 Supports PDF, DOCX, TXT, CSV, XLSX, PPT, PNG, and JPG files
-- 🔹 Implemented semantic search using vector embeddings
-- 🔹 Integrated AI-powered chatbot for document-based Q&A
-- 🔹 Developed secure user authentication and document management
+ -🔹 Built a RAG-based document retrieval system
+ -🔹 Supports PDF, DOCX, TXT, CSV, XLSX, PPT, PNG, and JPG files
+ -🔹 Implemented semantic search using vector embeddings
+ -🔹 Integrated AI-powered chatbot for document-based Q&A
+ -🔹 Developed secure user authentication and document management
 
 🔗 **GitHub:**  (https://github.com/swethakannan595-crypto/AI-Knowledge-Hub)
 
@@ -102,11 +102,11 @@ A full-stack web application designed to simplify library operations through rol
 
 ### Key Highlights
 
-- 🔹 Implemented complete CRUD functionality
-- 🔹 Developed secure user authentication and authorization
-- 🔹 Managed books, members, issue/return operations
-- 🔹 Designed a responsive interface using Bootstrap
-- 🔹 Integrated SQLite database using Django ORM
+ -🔹 Implemented complete CRUD functionality
+ -🔹 Developed secure user authentication and authorization
+ -🔹 Managed books, members, issue/return operations
+ -🔹 Designed a responsive interface using Bootstrap
+ -🔹 Integrated SQLite database using Django ORM
 
 🔗 **GitHub:** (https://github.com/swethakannan595-crypto/Library-Management-System)
 
@@ -119,10 +119,10 @@ A comprehensive research report exploring ChatGPT's architecture, working princi
 
 ### Key Highlights
 
-- 🔹 Studied Large Language Models (LLMs)
-- 🔹 Explained prompt engineering concepts
-- 🔹 Analyzed practical AI use cases across industries
-- 🔹 Documented future trends and ethical considerations
+ -🔹 Studied Large Language Models (LLMs)
+ -🔹 Explained prompt engineering concepts
+ -🔹 Analyzed practical AI use cases across industries
+ -🔹 Documented future trends and ethical considerations
 
 🔗 **GitHub:** (https://github.com/swethakannan595-crypto/chatgpt-impact-research-report)
 
@@ -167,10 +167,10 @@ I regularly solve coding challenges to strengthen my understanding of Data Struc
 A snapshot of my GitHub journey, highlighting coding activity, language proficiency, and contributions through real-world projects and continuous learning.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swethakannan595-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakannan595-crypto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=swethakannan595-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swethakannan595-crypto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 # 🔥 Coding Consistency
@@ -180,7 +180,6 @@ Dedicated to continuous learning and consistent development through hands-on pro
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=swethakannan595-crypto&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 📈 Contribution Insights
@@ -193,10 +192,3 @@ A visual representation of my development activity, showcasing consistent contri
 
 ---
 
-# 🏆 Developer Milestones
-
-Recognitions and milestones that reflect my commitment to continuous learning, software development, and active participation within the GitHub community.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swethakannan595-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
