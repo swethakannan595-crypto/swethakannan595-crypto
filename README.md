@@ -164,42 +164,39 @@ I regularly solve coding challenges to strengthen my understanding of Data Struc
 
 # 📊 GitHub Analytics
 
-Explore my coding activity, language usage, and overall GitHub performance through real-time development insights.
+A snapshot of my GitHub journey, highlighting coding activity, language proficiency, and contributions through real-world projects and continuous learning.
 
 <p align="center">
-  <!-- GitHub Stats -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swethakannan595-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakannan595-crypto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-</p>
-
-
+---
 
 # 🔥 Coding Consistency
 
-Consistency is the foundation of growth. This streak reflects my commitment to learning, building, and improving every day.
+Dedicated to continuous learning and consistent development through hands-on projects, coding challenges, and practical software engineering experience.
 
 <p align="center">
-  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=swethakannan595-crypto&theme=tokyonight&hide_border=true"/>
 </p>
 
-
+---
 
 # 📈 Contribution Insights
 
-A timeline of my development journey, highlighting project contributions, continuous learning, and active participation.
+A visual representation of my development activity, showcasing consistent contributions, project development, and ongoing technical growth.
 
 <p align="center">
-  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swethakannan595-crypto&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
+---
 
 # 🏆 Developer Milestones
 
-A collection of achievements that showcase my dedication to software development, open-source learning, and continuous improvement.
+Recognitions and milestones that reflect my commitment to continuous learning, software development, and active participation within the GitHub community.
 
 <p align="center">
-  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=swethakannan595-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
