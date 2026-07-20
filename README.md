@@ -26,6 +26,7 @@ Feel free to reach out and connect with me:
 [![Naukri](https://img.shields.io/badge/Naukri-0057B8?style=for-the-badge&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethakannan595@gmail.com)
+
 ---
 
 # 💡 About Me
@@ -85,13 +86,13 @@ An AI-powered knowledge management system that enables intelligent document sear
 
 ### Key Highlights
 
- -🔹 Built a RAG-based document retrieval system
- -🔹 Supports PDF, DOCX, TXT, CSV, XLSX, PPT, PNG, and JPG files
- -🔹 Implemented semantic search using vector embeddings
- -🔹 Integrated AI-powered chatbot for document-based Q&A
- -🔹 Developed secure user authentication and document management
+ -  🔹 Built a RAG-based document retrieval system
+ -  🔹 Supports PDF, DOCX, TXT, CSV, XLSX, PPT, PNG, and JPG files
+ -  🔹 Implemented semantic search using vector embeddings
+ -  🔹 Integrated AI-powered chatbot for document-based Q&A
+ -  🔹 Developed secure user authentication and document management
 
-🔗 **GitHub:**  (https://github.com/swethakannan595-crypto/AI-Knowledge-Hub)
+🔗 **GitHub:**  https://github.com/swethakannan595-crypto/AI-Knowledge-Hub
 
 
 ## 📚 Library Management System
@@ -102,13 +103,13 @@ A full-stack web application designed to simplify library operations through rol
 
 ### Key Highlights
 
- -🔹 Implemented complete CRUD functionality
- -🔹 Developed secure user authentication and authorization
- -🔹 Managed books, members, issue/return operations
- -🔹 Designed a responsive interface using Bootstrap
- -🔹 Integrated SQLite database using Django ORM
+ -  🔹 Implemented complete CRUD functionality
+ -  🔹 Developed secure user authentication and authorization
+ -  🔹 Managed books, members, issue/return operations
+ -  🔹 Designed a responsive interface using Bootstrap
+ -  🔹 Integrated SQLite database using Django ORM
 
-🔗 **GitHub:** (https://github.com/swethakannan595-crypto/Library-Management-System)
+🔗 **GitHub:** https://github.com/swethakannan595-crypto/Library-Management-System
 
 
 ## 📄 ChatGPT Research Report
@@ -119,12 +120,12 @@ A comprehensive research report exploring ChatGPT's architecture, working princi
 
 ### Key Highlights
 
- -🔹 Studied Large Language Models (LLMs)
- -🔹 Explained prompt engineering concepts
- -🔹 Analyzed practical AI use cases across industries
- -🔹 Documented future trends and ethical considerations
+ -  🔹 Studied Large Language Models (LLMs)
+ -  🔹 Explained prompt engineering concepts
+ -  🔹 Analyzed practical AI use cases across industries
+ -  🔹 Documented future trends and ethical considerations
 
-🔗 **GitHub:** (https://github.com/swethakannan595-crypto/chatgpt-impact-research-report)
+🔗 **GitHub:** https://github.com/swethakannan595-crypto/chatgpt-impact-research-report
 
 ---
 
