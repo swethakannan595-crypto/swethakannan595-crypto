@@ -173,7 +173,7 @@ Every contribution reflects my commitment to continuous learning and technical g
 
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swethakannan595-crypto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 # 🔥 Coding Consistency
 
@@ -183,7 +183,7 @@ Every contribution reflects my commitment to improving technical skills and buil
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=swethakannan595-crypto&theme=tokyonight&hide_border=true"/>
 </p>
----
+
 
 # 📈 Contribution Insights
 
