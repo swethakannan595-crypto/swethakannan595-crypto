@@ -153,19 +153,20 @@ I regularly solve coding challenges to strengthen my understanding of Data Struc
 
 ### Coding Profiles
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) **LeetCode** – Strengthening algorithmic thinking through coding challenges.
+<img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="22" height="22"/> **LeetCode** – Strengthening algorithmic thinking through coding challenges.
 
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) **HackerRank** – Practicing Python, SQL, and problem-solving exercises.
+<img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="22" height="22"/> **HackerRank** – Practicing Python, SQL, and problem-solving exercises.
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub** – Showcasing real-world projects, technical skills, and continuous learning.
+<img src="https://cdn.simpleicons.org/github" alt="GitHub" width="22" height="22"/> **GitHub** – Showcasing real-world projects, technical skills, and continuous learning.
 
-![Naukri](https://img.shields.io/badge/Naukri-0054A6?style=flat-square&logoColor=white) **Naukri** – Keeping my professional profile updated with projects, certifications, and career achievements.
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/b65759fa-2711-4c15-8419-75942e142d8e" /> ***Naukri*** – Keeping my professional profile updated with projects, certifications, and career achievements.
 
 ---
 
 # 📊 GitHub Analytics
 
-A snapshot of my GitHub journey, highlighting coding activity, language proficiency, and contributions through real-world projects and continuous learning.
+A snapshot of my GitHub journey, showcasing consistent coding activity, language proficiency, and real-world project development.
+Every contribution reflects my commitment to continuous learning and technical growth.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=swethakannan595-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -176,7 +177,8 @@ A snapshot of my GitHub journey, highlighting coding activity, language proficie
 
 # 🔥 Coding Consistency
 
-Dedicated to continuous learning and consistent development through hands-on projects, coding challenges, and practical software engineering experience.
+Dedicated to continuous learning through hands-on projects, coding challenges, and real-world software development.
+Every contribution reflects my commitment to improving technical skills and building impactful solutions.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=swethakannan595-crypto&theme=tokyonight&hide_border=true"/>
@@ -185,7 +187,7 @@ Dedicated to continuous learning and consistent development through hands-on pro
 
 # 📈 Contribution Insights
 
-A visual representation of my development activity, showcasing consistent contributions, project development, and ongoing technical growth.
+A visual representation of my development journey, highlighting consistent contributions, project development, and continuous technical growth. Every commit reflects my commitment to learning and building impactful solutions.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swethakannan595-crypto&theme=tokyo-night&hide_border=true"/>
