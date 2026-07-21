@@ -153,13 +153,13 @@ I regularly solve coding challenges to strengthen my understanding of Data Struc
 
 ### Coding Profiles
 
-🟠 **LeetCode** – Strengthening algorithmic thinking through coding challenges.
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) **LeetCode** – Strengthening algorithmic thinking through coding challenges.
 
-🟢 **HackerRank** – Practicing Python, SQL, and problem-solving exercises.
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) **HackerRank** – Practicing Python, SQL, and problem-solving exercises.
 
-💻 **GitHub** – Showcasing real-world projects, technical skills, and continuous learning.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub** – Showcasing real-world projects, technical skills, and continuous learning.
 
-💼 **Naukri** – Keeping my professional profile updated with projects, certifications, and career achievements.
+![Naukri](https://img.shields.io/badge/Naukri-0054A6?style=flat-square&logoColor=white) **Naukri** – Keeping my professional profile updated with projects, certifications, and career achievements.
 
 ---
 
