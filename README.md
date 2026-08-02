@@ -144,6 +144,7 @@ I believe in continuous learning and regularly enhance my technical skills throu
 - 🏅 Tata GenAI Data Analytics Job Simulation
 - 🏅 Deloitte Data Analytics Job Simulation
 - 🏅 UiPath RPA Developer Foundation
+- 🏅Oracle Agentic AI Certified Foundations Associate
 
 ---
 
