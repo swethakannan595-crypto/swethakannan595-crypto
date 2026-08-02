@@ -142,13 +142,13 @@ I believe in continuous learning and regularly enhance my technical skills throu
 - 🏅 NPTEL DBMS (Elite)
 - 🏅 IBM Data Analysis with Python
 - 🏅 HackerRank SQL (Intermediate)
-- 🏅 HackerRank Node.js (Basic)
+- 🏅 Simplilearn Site Reliability Engineering Course
 - 🏅 Cisco Python Essentials
 - 🏅 NASSCOM Digital Engineering
 - 🏅 Tata GenAI Data Analytics Job Simulation
 - 🏅 Deloitte Data Analytics Job Simulation
 - 🏅 UiPath RPA Developer Foundation
-- 🏅Oracle Agentic AI Certified Foundations Associate
+- 🏅 Oracle Agentic AI Certified Foundations Associate
 
 ---
 
