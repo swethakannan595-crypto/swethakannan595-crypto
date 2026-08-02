@@ -1,7 +1,7 @@
 # Hi 👋, I'm Swetha Kannan
 
 ### Final-Year B.Sc. Information Technology Student
-### Python, Django, Java, SQL & Web Designing | Database Management & SEO Practitioner.
+### Python, Django, Java, SQL & Web Designing | Data Analyst | Database Management & SEO Practitioner.
 
 🚀 Always Learning New Technologies
 
