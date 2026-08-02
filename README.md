@@ -31,11 +31,15 @@ Feel free to reach out and connect with me:
 
 # 💡 About Me
 
-I am a final-year Information Technology student with a strong interest in backend development, artificial intelligence, and software engineering. I enjoy building practical applications that solve real-world problems using Python and modern web technologies.
+I am a final-year B.Sc. Information Technology student with a passion for software development, backend engineering, and Artificial Intelligence. Throughout my academic journey, I have maintained a **CGPA of 8.56/10 (85.06% across the first four semesters)** while continuously developing practical software solutions and strengthening my technical expertise.
 
-My experience includes developing full-stack web applications with Django, creating AI-powered solutions using FastAPI, and gaining industry exposure through internships in both Python development and SEO. I actively strengthen my technical skills by solving coding challenges, earning industry certifications, and working on personal projects.
+My hands-on experience includes building full-stack web applications using **Python, Django, FastAPI, PostgreSQL, and SQLite**, as well as developing AI-powered applications using **Retrieval-Augmented Generation (RAG)**. Through internships in **Python & Django Development** and **SEO & Digital Marketing**, I have gained valuable industry experience in software development, database management, and web technologies.
 
-I am currently seeking entry-level Software Developer and Python Backend Developer opportunities where I can apply my knowledge, collaborate with experienced teams, and continue growing as a developer.
+Beyond academics, I actively improve my problem-solving skills through coding challenges, personal projects, and industry-recognized certifications. I also had the opportunity to serve as the **Department Secretary** of the Information Technology Department, where I developed leadership, teamwork, event coordination, and communication skills while contributing to student activities and departmental initiatives.
+
+I am committed to continuous learning, writing clean and maintainable code, and building solutions that create real-world impact.
+
+🎯 **Currently seeking entry-level opportunities as a Python Developer, Backend Developer, or Software Engineer where I can contribute, learn from experienced professionals, and grow into a high-impact software engineer.**
 
 ---
 
