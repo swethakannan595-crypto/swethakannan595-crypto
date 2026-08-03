@@ -180,10 +180,6 @@ Every contribution reflects my commitment to continuous learning and technical g
 </p>
 
 
-## 🔥 Coding Consistency
-
-Dedicated to continuous learning through hands-on projects, coding challenges, and real-world software development. Every contribution reflects my commitment to improving technical skills and building impactful solutions.
-
 
 # 📈 Contribution Insights
 
@@ -192,6 +188,11 @@ A visual representation of my development journey, highlighting consistent contr
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swethakannan595-crypto&theme=tokyo-night&hide_border=true"/>
 </p>
+
+
+## 🔥 Coding Consistency
+
+Dedicated to continuous learning through hands-on projects, coding challenges, and real-world software development. Every contribution reflects my commitment to improving technical skills and building impactful solutions.
 
 ---
 
