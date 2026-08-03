@@ -180,14 +180,9 @@ Every contribution reflects my commitment to continuous learning and technical g
 </p>
 
 
-# 🔥 Coding Consistency
+## 🔥 Coding Consistency
 
-Dedicated to continuous learning through hands-on projects, coding challenges, and real-world software development.
-Every contribution reflects my commitment to improving technical skills and building impactful solutions.
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swethakannan595-crypto&theme=tokyonight&hide_border=true"/>
-</p>
+Dedicated to continuous learning through hands-on projects, coding challenges, and real-world software development. Every contribution reflects my commitment to improving technical skills and building impactful solutions.
 
 
 # 📈 Contribution Insights
