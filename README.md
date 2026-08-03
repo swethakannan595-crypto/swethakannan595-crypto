@@ -186,7 +186,7 @@ Dedicated to continuous learning through hands-on projects, coding challenges, a
 Every contribution reflects my commitment to improving technical skills and building impactful solutions.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swethakannan595-crypto&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 
