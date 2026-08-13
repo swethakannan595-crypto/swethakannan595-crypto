@@ -170,12 +170,15 @@ I regularly solve coding challenges to strengthen my understanding of Data Struc
 
 # 📊 GitHub Analytics
 
-A snapshot of my GitHub journey, showcasing consistent coding activity, language proficiency, and real-world project development.
-Every contribution reflects my commitment to continuous learning and technical growth.
+A snapshot of my GitHub journey, highlighting coding activity, language proficiency, and contributions through real-world projects and continuous learning.
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swethakannan595-crypto&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swethakannan595-crypto&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swethakannan595-crypto&theme=tokyonight" />
 </p>
 
 
