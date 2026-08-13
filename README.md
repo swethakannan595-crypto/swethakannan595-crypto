@@ -174,9 +174,8 @@ A snapshot of my GitHub journey, showcasing consistent coding activity, language
 Every contribution reflects my commitment to continuous learning and technical growth.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=swethakannan595-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swethakannan595-crypto&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </p>
 
 
