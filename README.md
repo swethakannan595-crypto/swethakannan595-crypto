@@ -93,13 +93,13 @@ A real-time infrastructure monitoring platform that unifies system, process, ser
 
 ### Key Highlights
 
-🔹 Built real-time system monitoring (CPU, memory, disk, network) using psutil
-🔹 Integrated Docker monitoring — containers, images, live stats via Docker SDK
-🔹 Developed Windows service & process monitoring with live search and filters
-🔹 Exposed Prometheus metrics endpoint with custom alert rules for CPU, memory, and disk
-🔹 Configured Alertmanager for automated email alerts, tested end-to-end
-🔹 Designed a multi-page dashboard with client-side routing (System, Docker, Processes, Services, Alerts)
-🔹 Automated CI/CD pipeline using GitHub Actions to build and push to Docker Hub
+- 🔹 Built real-time system monitoring (CPU, memory, disk, network) using psutil
+- 🔹 Integrated Docker monitoring — containers, images, live stats via Docker SDK
+- 🔹 Developed Windows service & process monitoring with live search and filters
+- 🔹 Exposed Prometheus metrics endpoint with custom alert rules for CPU, memory, and disk
+- 🔹 Configured Alertmanager for automated email alerts, tested end-to-end
+- 🔹 Designed a multi-page dashboard with client-side routing (System, Docker, Processes, Services, Alerts)
+- 🔹 Automated CI/CD pipeline using GitHub Actions to build and push to Docker Hub
 
 🔗 **GitHub:** https://github.com/swethakannan595-crypto/devops-monitoring-dashboard.git
 
