@@ -82,6 +82,27 @@ I am committed to continuous learning, writing clean and maintainable code, and 
 
 # 🚀 Featured Projects
 
+Here's the DevOps Monitoring Dashboard in that same compact format:
+
+---
+
+## 📊 DevOps Monitoring Dashboard
+Tech Stack: Python, FastAPI, Prometheus, Grafana, Docker, Alertmanager, GitHub Actions
+
+A real-time infrastructure monitoring platform that unifies system, process, service, and container observability into a single dashboard.
+
+### Key Highlights
+
+🔹 Built real-time system monitoring (CPU, memory, disk, network) using psutil
+🔹 Integrated Docker monitoring — containers, images, live stats via Docker SDK
+🔹 Developed Windows service & process monitoring with live search and filters
+🔹 Exposed Prometheus metrics endpoint with custom alert rules for CPU, memory, and disk
+🔹 Configured Alertmanager for automated email alerts, tested end-to-end
+🔹 Designed a multi-page dashboard with client-side routing (System, Docker, Processes, Services, Alerts)
+🔹 Automated CI/CD pipeline using GitHub Actions to build and push to Docker Hub
+
+🔗 **GitHub:** https://github.com/swethakannan595-crypto/devops-monitoring-dashboard.git
+
 ## 🤖 AI Knowledge Hub
 
 **Tech Stack:** Python, FastAPI, PostgreSQL, ChromaDB, Sentence Transformers, Groq API
