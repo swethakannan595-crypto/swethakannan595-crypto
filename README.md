@@ -209,9 +209,10 @@ A snapshot of my GitHub journey, highlighting coding activity, language proficie
 A visual representation of my development journey, highlighting consistent contributions, project development, and continuous technical growth. Every commit reflects my commitment to learning and building impactful solutions.
 
 <p align="center">
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=swethakannan595-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
  
   <img src="https://streak-stats.demolab.com/?user=swethakannan595-crypto&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
