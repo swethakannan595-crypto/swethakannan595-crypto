@@ -82,9 +82,6 @@ I am committed to continuous learning, writing clean and maintainable code, and 
 
 # 🚀 Featured Projects
 
-Here's the DevOps Monitoring Dashboard in that same compact format:
-
----
 
 ## 📊 DevOps Monitoring Dashboard
 Tech Stack: Python, FastAPI, Prometheus, Grafana, Docker, Alertmanager, GitHub Actions
