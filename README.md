@@ -119,6 +119,21 @@ An AI-powered knowledge management system that enables intelligent document sear
 
 🔗 **GitHub:**  https://github.com/swethakannan595-crypto/AI-Knowledge-Hub
 
+## 📚 SafeShift – AI-Powered Worker Safety Monitoring System
+
+**Tech Stack**: HTML, CSS, JavaScript, TensorFlow.js, Teachable Machine
+
+A browser-based safety monitoring dashboard that uses AI and computer vision to detect workplace safety compliance in real time, helping identify risks and support faster incident response.
+
+### Key Highlights
+- 🔹 Built an 8-class image classification pipeline for helmet, mask, ID badge, and posture detection
+- 🔹 Implemented real-time inference directly in-browser using TensorFlow.js — no backend required
+- 🔹 Developed severity-tiered live alerting (Warning / Risk / Emergency)
+- 🔹 Designed an incident logging system with local persistence and CSV export
+- 🔹 Built a multi-panel interactive monitoring dashboard powered by a shared camera feed
+
+🔗 **Live Demo**: [https://sunny-bombolone-3513db.netlify.app/](url)
+
 
 ## 📚 Library Management System
 
