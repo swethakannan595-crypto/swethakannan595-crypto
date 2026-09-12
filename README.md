@@ -98,7 +98,7 @@ A real-time infrastructure monitoring platform that unifies system, process, ser
 - 🔹 Designed a multi-page dashboard with client-side routing (System, Docker, Processes, Services, Alerts)
 - 🔹 Automated CI/CD pipeline using GitHub Actions to build and push to Docker Hub
 
-🔗 **Live Demo**: [https://devops-monitoring-dashboard-zrgq.onrender.com](url)
+🔗 **Live Demo**: https://devops-monitoring-dashboard-zrgq.onrender.com/dashboard
 
 ## 🤖 AI Knowledge Hub
 
