@@ -114,7 +114,7 @@ An AI-powered knowledge management system that enables intelligent document sear
  -  🔹 Integrated AI-powered chatbot for document-based Q&A
  -  🔹 Developed secure user authentication and document management
 
-🔗 **GitHub:**  https://github.com/swethakannan595-crypto/AI-Knowledge-Hub
+🔗 Live Demo: https://ai-knowledge-hub-m0k2.onrender.com
 
 ## 📚 SafeShift – AI-Powered Worker Safety Monitoring System
 
