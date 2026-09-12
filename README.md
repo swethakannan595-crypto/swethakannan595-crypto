@@ -129,7 +129,7 @@ A browser-based safety monitoring dashboard that uses AI and computer vision to 
 - 🔹 Designed an incident logging system with local persistence and CSV export
 - 🔹 Built a multi-panel interactive monitoring dashboard powered by a shared camera feed
 
-🔗 **Live Demo**:  https://deft-gaufre-28cf54.netlify.app/
+🔗 **Live Demo**: https://courageous-empanada-1a89d5.netlify.app/
 
 
 ## 📚 Library Management System
